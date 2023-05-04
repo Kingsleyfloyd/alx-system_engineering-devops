@@ -1,1 +1,1 @@
-I am working now
+Thisscripte pwd print the current working directory

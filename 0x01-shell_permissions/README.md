@@ -1,1 +1,1 @@
-0x01 shell permissions
+su betty switch user to betty
